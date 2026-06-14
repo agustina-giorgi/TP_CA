@@ -1,15 +1,15 @@
-#**Trabajo Práctico:** Servidor Linux (Debian)
+## **Trabajo Práctico:** Servidor Linux (Debian)
 **Asignatura:** Computación Aplicada  
 **Fecha de Entrega:** 15 de junio de 2026  
 
-#INTEGRANTES:
+## INTEGRANTES:
 * Agustina Giorgi
 * Pablo Alexander Valenciano
 * Mariangeles Sol Gomez Dalla Fontana
 
 ---
 
-#CONTENIDO: 
+## CONTENIDO: 
 El repositorio cuenta con los siguientes entregables, comprimidos individualmente en formato .tar.gz:
 * **root.tar.gz**: Directorio home del usuario administrador, incluyendo las claves SSH (.ssh/);
 * **etc.tar.gz**: Archivos de configuración global del sistema;
@@ -19,7 +19,7 @@ El repositorio cuenta con los siguientes entregables, comprimidos individualment
 
 ---
 
-#**Notas:
+## **Notas:
 Debido a las restricciones de tamaño de archivo de GitHub, el directorio /var ha sido comprimido y dividido en partes de máximo 20MB cada una:
 * **var.tar.gz.part_aa**
 * **var.tar.gz.part_ab**
